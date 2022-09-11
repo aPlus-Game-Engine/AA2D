@@ -1,0 +1,22 @@
+{
+  "name": "aa2d-prototypefishi",
+  "version": "1.0.0",
+  "description": "A JavaScript Canvas renderer. Like a double-A battery, AA2D just works!",
+  "main": "AA2D.bundle.js",
+  "scripts": {
+    "bundle": "npx webCompounder webCompounder.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aPlus-Game-Engine/AA2D.git"
+  },
+  "author": "Ehan Ahamed and contributors",
+  "license": "UPL-1.0",
+  "bugs": {
+    "url": "https://github.com/aPlus-Game-Engine/AA2D/issues"
+  },
+  "homepage": "https://github.com/aPlus-Game-Engine/AA2D#readme",
+  "devDependencies": {
+    "webcompounder": "^1.1.6"
+  }
+}

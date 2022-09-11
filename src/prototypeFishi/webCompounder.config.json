@@ -1,0 +1,5 @@
+{
+  "workflow": "bundle",
+  "input": ["./AA2D.js", "./*/**/*.js"],
+  "output": "./AA2D.bundle.js"
+}

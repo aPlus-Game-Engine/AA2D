@@ -1,5 +1,5 @@
 {
   "workflow": "bundle",
-  "input": ["./AA2D.js", "./*/**/*.js"],
-  "output": "./AA2D.bundle.js"
+  "input": ["./src/AA2D.js", "./src/*/**/*.js"],
+  "output": "./src/AA2D.bundle.js"
 }

@@ -1,5 +1,28 @@
-aPlus.AA2D = {};
-aPlus.AA2D.Canvas = class {
+//eslint-disable-next-line no-unused-vars
+var AA2D = {};
+//eslint-disable-next-line no-undef
+AA2D.basicCamera = class {
+  constructor(id, options) {
+    this.id = id;
+    this.options = options;
+  }
+};
+//eslint-disable-next-line no-undef
+AA2D.directCamera = class {
+  constructor(id, options) {
+    this.id = id;
+    this.options = options;
+  }
+};
+//eslint-disable-next-line no-undef
+AA2D.mountedCamera = class {
+  constructor(id, options) {
+    this.id = id;
+    this.options = options;
+  }
+};
+//eslint-disable-next-line no-undef
+AA2D.Canvas = class {
   constructor(id, width, height) {
     this.element = document.createElement("canvas");
     this.element.id = id;
@@ -8,21 +31,7 @@ aPlus.AA2D.Canvas = class {
     document.body.appendChild(this.element);
   }
 };
-aPlus.AA2D.basicCamera = class {
-  constructor(id, options) {
-    this.id = id;
-    this.options = options;
-  }
-};
-aPlus.AA2D.directCamera = class {
-  constructor(id, options) {
-    this.id = id;
-    this.options = options;
-  }
-};
-aPlus.AA2D.mountedCamera = class {
-  constructor(id, options) {
-    this.id = id;
-    this.options = options;
-  }
+//eslint-disable-next-line no-undef
+AA2D.text = class {
+
 };

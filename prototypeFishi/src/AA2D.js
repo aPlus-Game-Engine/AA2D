@@ -1,1 +1,2 @@
-aPlus.AA2D = {};
+//eslint-disable-next-line no-unused-vars
+var AA2D = {};

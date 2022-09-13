@@ -1,3 +1,4 @@
-aPlus.AA2D.text = class {
+//eslint-disable-next-line no-undef
+AA2D.text = class {
 
 };

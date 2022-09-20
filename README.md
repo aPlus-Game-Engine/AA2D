@@ -8,6 +8,6 @@
 <br />
 <br />
 
-<h2> AA2D </h2>
+## AA2D
 
 > A JavaScript Canvas renderer. Like a double-A battery, AA2D just works! 

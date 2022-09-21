@@ -10,4 +10,4 @@
 
 ## AA2D
 
-> A JavaScript Canvas renderer. Like a double-A battery, AA2D just works! 
+> A JavaScript Canvas renderer; powerful as a double-A battery
